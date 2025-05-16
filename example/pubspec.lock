@@ -21,11 +21,11 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "445ae37"
-      resolved-ref: "445ae37cf77a3b7cb8f185b4c9c7db53665633b5"
+      ref: "1f7211a"
+      resolved-ref: "1f7211a27b0a96155aa9785c01470ac7734d6218"
       url: "https://github.com/pavluke/censor_it.git"
     source: git
-    version: "1.2.3"
+    version: "1.2.0"
   characters:
     dependency: transitive
     description:

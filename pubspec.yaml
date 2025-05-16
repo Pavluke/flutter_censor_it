@@ -3,7 +3,6 @@ description: "A new Flutter package project."
 version: 1.0.0
 repository: https://github.com/pavluke/flutter_censor_it
 issue_tracker: https://github.com/pavluke/flutter_censor_it/issues
-publish_to: none
 
 environment:
   sdk: ^3.7.2
@@ -12,11 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  censor_it:
-    git:
-      url: https://github.com/pavluke/censor_it.git
-      ref: 1f7211a
-  google_fonts: 6.2.1
+  censor_it: ^1.2.0
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
