@@ -6,7 +6,7 @@ issue_tracker: https://github.com/pavluke/flutter_censor_it/issues
 
 environment:
   sdk: ^3.7.2
-  flutter: ">=1.17.0"
+  flutter: ">=3.27.0"
 
 dependencies:
   flutter:
