@@ -91,7 +91,6 @@ Result:
   for censoring.
 - **Profanity Detection**: Check if the text contains any profanity based on the
   censor pattern.
-- **Swear Words Extraction**: Extract a list of swear words found in the text.
 
 ## Changelog
 
