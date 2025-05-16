@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://pub.dartlang.org/packages/flutter_censor_it">
-    <img src="./images/preview.gif" alt="Preview" />
-  </a>
-</p>
+![Preview](https://github.com/Pavluke/flutter_censor_it/blob/main/images/preview.gif?raw=true)
 
 [![Pub](https://img.shields.io/pub/v/flutter_censor_it.svg)](https://pub.dartlang.org/packages/flutter_censor_it)
 
