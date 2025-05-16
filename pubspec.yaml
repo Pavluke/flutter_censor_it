@@ -1,5 +1,5 @@
 name: flutter_censor_it
-description: "A new Flutter package project."
+description: "A Flutter widget for censoring text with customizable profanity patterns."
 version: 1.0.0
 repository: https://github.com/pavluke/flutter_censor_it
 issue_tracker: https://github.com/pavluke/flutter_censor_it/issues
