@@ -1,4 +1,4 @@
-![Preview](https://github.com/Pavluke/flutter_censor_it/blob/main/images/preview.gif?raw=true)
+![Banner](images/banner.gif)
 
 [![Pub](https://img.shields.io/pub/v/flutter_censor_it.svg)](https://pub.dartlang.org/packages/flutter_censor_it)
 
@@ -75,8 +75,8 @@ CensorItWidget(
 
 Result:
 
-<a href="https://pub.dartlang.org/packages/flutter_censor_it">
-  <img src="images/base_result.png" alt="Pub" width="200" />
+<a href="https://github.com/Pavluke/flutter_censor_it/blob/main/images/base_result.png?raw=true">
+  <img src="https://github.com/Pavluke/flutter_censor_it/blob/main/images/base_result.png?raw=true" alt="Pub" width="200" />
 </a>
 
 ## Features
