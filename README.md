@@ -1,4 +1,6 @@
-![Banner](images/banner.gif)
+<p align="center">
+  <img src="https://github.com/Pavluke/flutter_censor_it/blob/main/images/banner.gif?raw=true" alt="Preview" />
+</p>
 
 [![Pub](https://img.shields.io/pub/v/flutter_censor_it.svg)](https://pub.dartlang.org/packages/flutter_censor_it)
 
