@@ -1,20 +1,19 @@
 name: flutter_censor_it
 description: "A Flutter widget for censoring text with customizable profanity patterns."
-version: 1.0.3
+version: 2.0.0
 repository: https://github.com/pavluke/flutter_censor_it
 issue_tracker: https://github.com/pavluke/flutter_censor_it/issues
 
 environment:
-  sdk: ^3.7.2
-  flutter: ">=3.27.0"
+  sdk: ">=3.10.0 <4.0.0"
 
 dependencies:
+  censor_it: ^2.0.0
+
   flutter:
     sdk: flutter
-  censor_it: ^1.2.0
-  google_fonts: ^6.2.1
 
 dev_dependencies:
+  flutter_lints: ^6.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0

@@ -1,4 +1,51 @@
 include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    - avoid_redundant_argument_values
+    - unnecessary_lambdas
+    - avoid_void_async
+    - unawaited_futures
+    - discarded_futures
+    - avoid_catches_without_on_clauses
+    - await_only_futures
+    - unnecessary_async
+    - unnecessary_unawaited
+    - unnecessary_await_in_return
+    - cascade_invocations
+    - always_declare_return_types
+    - prefer_relative_imports
+    - prefer_const_constructors
+    - prefer_const_constructors_in_immutables
+    - prefer_const_declarations
+    - prefer_const_literals_to_create_immutables
+    - prefer_expression_function_bodies
+    - prefer_null_aware_method_calls
+    - prefer_null_aware_operators
+    - directives_ordering
+    - sort_pub_dependencies
+    - avoid_empty_else
+    - avoid_print
+    - cancel_subscriptions
+    - close_sinks
+    - hash_and_equals
+    - prefer_final_fields
+    - library_private_types_in_public_api
+    - avoid_setters_without_getters
+    - prefer_final_locals
+    - unnecessary_const
+    - unnecessary_this
+    - unnecessary_null_in_if_null_operators
+    - overridden_fields
+    - sort_constructors_first
+    - sort_unnamed_constructors_first
+    - always_put_required_named_parameters_first
+    - type_annotate_public_apis
+    - avoid_types_on_closure_parameters
+    - sort_child_properties_last
+    - use_key_in_widget_constructors
+    - lines_longer_than_80_chars
+    - public_member_api_docs
 
-# Additional information about this file can be found at
-# https://dart.dev/guides/language/analysis-options
+formatter:
+  page_width: 80
+  trailing_commas: preserve

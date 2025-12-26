@@ -1,3 +1,3 @@
 export 'package:censor_it/censor_it.dart';
 
-export 'widgets/censor_it_widget.dart';
+export 'censor_it_widget_base.dart';
